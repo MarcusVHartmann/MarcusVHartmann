@@ -5,7 +5,7 @@
 <h2>Sobre mim</h2>
 
 <p>🎨 Amo áreas que usam a criatividade, atuo como freelancer nas áreas de design, social media e web design.</p>
-<p>📖 Estou me especializando para me tornar fullstack e desenvolvedor de software</p>
+<p>📖 Estou me especializando para me tornar fullstack e desenvolvedor de software.</p>
 
 <h2>Formações</h2>
 
