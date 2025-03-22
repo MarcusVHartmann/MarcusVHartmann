@@ -11,7 +11,7 @@
 
 <UL>
   <LI>🌐 Sitesmas para internet (Cursando)</LI>
-  <p>Fatec Rubens Lara - Baixada Santista (Superior): 2025 - 2028</p>
+  <p>Fatec Rubens Lara - Baixada Santista (Tecnólogo): 2025 - 2028</p>
   <LI>⚙️ Administração (Concluido).</LI>
   <p>Senac - Santos (Técnico): 2023 - 2024</p>
 </UL>
