@@ -12,8 +12,6 @@
 <UL>
   <LI>🌐 Sitesmas para internet (Cursando)</LI>
   <p>Fatec Rubens Lara - Baixada Santista (Superior): 2025 - 2028</p>
-  <LI>🖥️ Análise e Desenvolvimento de Sistemas (Cursando)</LI>
-  <p>Senac - Santos (Superior): 2024 - 2027</p>
   <LI>⚙️ Administração (Concluido).</LI>
   <p>Senac - Santos (Técnico): 2023 - 2024</p>
 </UL>
